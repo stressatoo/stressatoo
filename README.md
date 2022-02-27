@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @stressatoo
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on a project - contact me!
+- 👋 Hi, I’m Alessandro
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning Computer Science and Economics
 - 📫 How to reach me: Discord Stress#9999
+- 💻 My website: https://stressato.xyz/
 
 <!---
 stressatoo/stressatoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
