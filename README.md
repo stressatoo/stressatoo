@@ -1,15 +1,3 @@
-- 👋 Hi, I’m Alessandro
-- 👀 I’m interested in C# and Full Stack Developement.
-- 🌱 I’m currently learning Computer Science and Economics
-- 📫 Reach me on discord: Stress#9999 or send me a mail: s@stressato.xyz
-- 💻 My website: https://stressato.xyz/
-
-<!---
-stressatoo/stressatoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 ## Hi, welcome to my profile! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Alessandro, people call me "Stress" or "Stressato", currently studying CS related to business in high school. I love tech (both hardware and software), coding.
@@ -17,10 +5,8 @@ I am Alessandro, people call me "Stress" or "Stressato", currently studying CS r
 Find out more about me here:
 
 
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:s@stressato.xyz)
+[![Instagram Badge](https://img.shields.io/badge/-alessandro.fn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alessandro.fn/)](https://instagram.com/alessandro.fn)
+[![Gmail Badge](https://img.shields.io/badge/-s@stressato.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s@stressato.xyz)](mailto:s@stressato.xyz)
 
 ## ⚡ Languages I learned, or I'm learning
 
