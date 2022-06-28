@@ -1,6 +1,6 @@
-## Hi, welcome to my profile! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, welcome to my profile! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 
-I am Alessandro, people call me "Stress" or "Stressato", currently studying CS related to business in high school. I love tech (both hardware and software), coding.
+I am Alessandro, people call me "Stress" or "Stressato", currently studying CS related to business in high school. I love tech (both hardware and software), coding, gaming and dogs.
 
 Find out more about me here:
 
