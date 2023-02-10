@@ -8,7 +8,7 @@ Find out more about me here:
 [![Instagram Badge](https://img.shields.io/badge/-alessandro.fn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alessandro.fn/)](https://instagram.com/alessandro.fn)
 [![Gmail Badge](https://img.shields.io/badge/-s@stressato.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s@stressato.xyz)](mailto:s@stressato.xyz)
 
-## ⚡ Languages I learned, or I'm learning
+## ⚡ Languages I've learned <sub><sup>(or I'm still learning)</sup></sub>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
