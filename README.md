@@ -5,8 +5,7 @@ I am Alessandro, people call me "Stress" or "Stressato", currently studying CS r
 Find out more about me here:
 
 
-[![Instagram Badge](https://img.shields.io/badge/-alessandro.fn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alessandro.fn/)](https://instagram.com/alessandro.fn)
-[![Gmail Badge](https://img.shields.io/badge/-s@stressato.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s@stressato.xyz)](mailto:s@stressato.xyz)
+[![Instagram Badge](https://img.shields.io/badge/-alee.marras-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alee.marras/)](https://instagram.com/alee.marras)
 
 ## ⚡ Languages I've learned <sub><sup>(or I'm still learning)</sup></sub>
 
